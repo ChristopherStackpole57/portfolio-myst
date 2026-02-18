@@ -1,0 +1,39 @@
+# Core Projects
+-----
+## VRENDER Rendering Engine
+**A modern Vulkan rendering engine emphasizing modularity and configurability.**
+
+```{image} images/HERO_VRENDER.png
+:alt: Miscellaneous Rendered Shapes
+:width: 500px
+:align: left
+```
+
+
+-----
+## Acrhimedes Math Engine
+**A math engine utilizing generic typing and enforcing correctness.**
+
+```{image} images/HERO_AME.png
+:alt: Archimedes Math Engine Logo
+:width: 500px
+:align: left
+```
+
+-----
+## Asteroid Defense
+**A Planet-Defense style game built on a custom, service-driven C++ game engine.**
+
+```{image} images/HERO_AsteroidsDefense.png
+:alt: Asteroid Defense in play
+:width: 500px
+:align: left
+```
+
+-----
+## Timeless Game Engine
+**A 2D sprite and primitive based game engine with rendering, physics, collision, and input written in Python.**
+
+-----
+## Fluid Dynamics LOD
+WIP Research for Purdue Undergraduate Research Conference

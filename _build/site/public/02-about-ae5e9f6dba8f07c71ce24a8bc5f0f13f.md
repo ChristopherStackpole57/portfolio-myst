@@ -1,0 +1,15 @@
+# About
+## Skills
+
+Programming: C++, Python, C#, Java, GLSL, HLSL, (some) x86 Assembly
+Libraries and APIs: Vulkan, OpenGL, SFML, PyGame
+Software: Unreal Engine 5, Unity Engine 6, Git/Hub
+Interpersonal: Leadership, Effective Collaboration, Technical / Scientific Writing, Oral Presentation
+
+## Education
+
+## Core Philosophy
+
+## Bookshelf
+
+- Game Engine Architecture, Jason Gregory, 3rd Edition

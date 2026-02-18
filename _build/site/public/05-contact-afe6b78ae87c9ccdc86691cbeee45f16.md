@@ -1,0 +1,8 @@
+# Contact
+## Reach Out:
+
+Email:      cstackpo@purdue.edu \
+Or:         christopher.stackpole57@gmail
+
+LinkdIn:    [Christopher Stackpole](https://www.linkedin.com/in/christopher-stackpole-ab234a304/) \
+GitHub:     [My Github Profile](https://github.com/ChristopherStackpole57)

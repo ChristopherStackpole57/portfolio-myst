@@ -1,0 +1,22 @@
+# Work Experience
+## Froglet Studios
+-----
+#### Game Development Intern
+10/2025 - Current
+
+What I Did:
+lorem ipsum
+
+My Core Skillset:
+dolor sit amet
+
+## DataAnnotation.tech
+#### Computer Science Specialist
+-----
+__/2026 - Current
+
+What I Did:
+idk the rest
+
+My Core Skillset:
+of the necessary words
