@@ -2,8 +2,8 @@
 ## Christopher Stackpole
 ### Rendering & Physics Engineer
 
-**A Little About Me**
 -----
+**A Little About Me**
 
 I am a graphics and physics focused engineer with a strong interest in real-time
 rendering, simulation, and engine architecture. My work centers around building 
@@ -24,8 +24,9 @@ I am currently working on a Vulkan based rendering engine focusing on:
 My goal is to work on rendering engines, graphics drivers, or real-time GPU driven
 simulations where performance, correctness, and architecture matter.
 
-**Tech Demo**
 -----
+**Tech Demo**
+
 Below is a short demo highlighting recent rendering and engine work. The footage
 demonstrates custom engine systems including geometry streaming, transient mesh
 support, and a conformance test driven math abstractions.
