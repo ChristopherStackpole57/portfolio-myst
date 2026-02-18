@@ -13,12 +13,12 @@
 A Spinning Triangle Demo powered by VRENDER's dynamic mesh system.
 :::
 
-**Overview**
+**Overview** \
 VRENDER is a real-time Vulkan rendering engine. This project emphasizes
 control and configurability.
 
 **Technical Overview**
-- Driven my modern Vulkan techinques, such as: Dynamic Rendering, Local
+- Driven by modern Vulkan techinques, such as: Dynamic Rendering, Local
 Read, Bindless Descriptors, Sychronization2, and VMA
 - Custom geometry allocation and suballocation system for static and
 dynamic mesh streaming
@@ -26,15 +26,15 @@ dynamic mesh streaming
 SDL, SFML, and Win32
 - Custom CMake build system
 
-**Technologies**
+**Technologies** \
 C++20, Vulkan, VMA, GLFW, SDL, SFML, Win32
 
-**Links**
+**Links** \
 [GitHub](https://github.com/ChristopherStackpole57/vrender) |
 [LinkedIn DevLog](https://www.linkedin.com/in/christopher-stackpole-ab234a304/recent-activity/all/)
 
 -----
-## Acrhimedes Math Engine
+## Archimedes Math Engine
 **A math engine utilizing generic typing and enforcing correctness.**
 
 ```{image} ./images/HERO_AME.png
@@ -43,7 +43,7 @@ C++20, Vulkan, VMA, GLFW, SDL, SFML, Win32
 :align: left
 ```
 
-**Overview**
+**Overview** \
 Archimedes is a custom math engine built to support rendering and physics
 engines. The library emphasizes performance, clarity, and deterministic
 behavior.
@@ -53,10 +53,10 @@ behavior.
 - Header only implementation, massively simplifying engine integration
 - Conformance test suite enforcing correctness
 
-**Technologies**
+**Technologies** \
 C++11, DocTest
 
-**Links**
+**Links** \
 [GitHub](https://github.com/ChristopherStackpole57/Archimedes-Math-Engine)
 
 -----
@@ -69,7 +69,7 @@ C++11, DocTest
 :align: left
 ```
 
-**Overview**
+**Overview** \
 Asteroid Defense is a real-time C++ game built on a custom engine. The project
 explores service driven architecture, call order clarity, and entity systems.
 
@@ -83,10 +83,10 @@ execution
 - Lightweight entity overlap detection designed for scenes with hundreds of
 moving entities
 
-**Technologies**
+**Technologies** \
 C++17, SFML
 
-**Links**
+**Links** \
 [GitHub](https://github.com/ChristopherStackpole57/Asteroid-Defence)
 
 -----
@@ -99,7 +99,7 @@ C++17, SFML
 :align: left
 ```
 
-**Overview**
+**Overview** \
 Timeless 2D is a lightweight game engine written in Python and PyGame.
 Timeless2D explores various aspects of real-time game engines, such as
 rendering, physics, collision, and input.
@@ -108,7 +108,7 @@ rendering, physics, collision, and input.
 ## Fluid Dynamics LOD -- Research Project
 **Level-of-Detail Oriented Overview of Methods for Fluid Simulation**
 
-**Overview**
+**Overview** \
 An undergraduate research project exploring performance and fidelity
 oriented LOD strategies for real-time fluid simulation.
 

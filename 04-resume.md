@@ -4,7 +4,7 @@
 #### Game Development Intern
 October 2025 - Present
 
-**Overview**
+**Overview** \
 I contributed to real-time rendering systems and shader development within
 a Unity production environment, focusing on performance scalability and
 pipeline integration. 
@@ -26,9 +26,9 @@ Modeling
 -----
 ## DataAnnotation.tech
 #### Computer Science Specialist
-06/2025 - Current
+June 2025 - Present
 
-**Overview**
+**Overview** \
 I worked on AI model evaluation and failure analysis within software
 engineering domains, focusing on correctness, edge-case detection, and code
 quality assessment.

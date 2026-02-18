@@ -51,3 +51,12 @@ A selection of texts that have influenced my approach to graphics development an
 - GPU Gems 3, NVIDIA Corporation & Hubert Nguyen
 - Seven Languages in Seven Weeks, Bruce Tate
 - Analytical Mechanics, Fowles & Cassidy, 7th Edition
+
+-----
+## Reach Out:
+
+Email:      cstackpo@purdue.edu \
+Or:         christopher.stackpole57@gmail.com
+
+LinkdIn:    [Christopher Stackpole](https://www.linkedin.com/in/christopher-stackpole-ab234a304/) \
+GitHub:     [My Github Profile](https://github.com/ChristopherStackpole57)
